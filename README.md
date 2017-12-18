@@ -6,7 +6,7 @@ Repositorio de ejemplo para Entornos
 
 - Item de la lista
 - Otro item
--Y otro más...
+- Y otro más...
 
 
 ## Otras cosas
@@ -14,6 +14,11 @@ Repositorio de ejemplo para Entornos
 Puedo dar formato *cursiva* y en **negrita**.
 
 Y poner [enlaces](http://gregoriofer.com).
+
+
+## Probando código
+
+Tienes que hacer `System.out.println("Hello")` en tu primer código de Java.
 
 
 
